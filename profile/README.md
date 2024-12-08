@@ -7,8 +7,8 @@ Email: villasboas@mines.edu
 Office Location: GC 255   
 Office Hours: TBD or [by appointment](https://outlook.office.com/bookwithme/user/12dfdf8a370d4da38883619eb1ea9ff0@mines.edu/meetingtype/xNyGhDABokeFVrhuy-Oa6A2?anonymous&ep=mcard)  
 
-Teaching Assistant: James Clemson
-Email: jclemson@mines.edu 
+Teaching Assistant: James Clemson   
+Email: jclemson@mines.edu  
 Office Hours: TBD   
 Office Hours Location: TBD  
 
