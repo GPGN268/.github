@@ -5,14 +5,14 @@
 Instructor: Bia Villas Boas (she/her)   
 Email: villasboas@mines.edu  
 Office Location: GC 255   
-Office Hours: TBD or [by appointment](https://outlook.office.com/bookwithme/user/12dfdf8a370d4da38883619eb1ea9ff0@mines.edu/meetingtype/vVN_CGb6SES1g6k53wy79A2?anonymous)  
+Office Hours: TBD or [by appointment](https://outlook.office.com/bookwithme/user/12dfdf8a370d4da38883619eb1ea9ff0@mines.edu/meetingtype/xNyGhDABokeFVrhuy-Oa6A2?anonymous&ep=mcard)  
 
 Teaching Assistant: James Clemson
 Email: jclemson@mines.edu 
 Office Hours: TBD   
 Office Hours Location: TBD  
 
-⚠️ You're expected to read the [course syllabus](https://github.com/GPGN268/GPGN268-CORE/blob/main/docs/syllabus-fall2025.md) thoroughly.  
+⚠️ You're expected to read the [course syllabus](https://github.com/GPGN268/GPGN268-CORE/blob/main/docs/syllabus-SP2025.md) thoroughly.  
 📚 All course material will be pushed to [GPGN268-CORE](https://github.com/GPGN268/GPGN268-CORE).  
 ✏️ We will use [HackMD](https://hackmd.io/@villasboas/GPGN268/edit) for collaborative note-taking during class.   
 💬 Our main communication channel will be [GitHub Discussions](https://github.com/orgs/GPGN268/discussions). There, you will find a private forum that is only available for your, your instructors, and classmates. That is *your* space for asking questions, discussing with your peers, exchanging resources and keeping up to date on course announcements.  
