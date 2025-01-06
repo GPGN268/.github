@@ -1,4 +1,4 @@
-# GPGN 268 – Geophysical Data Analysis – Spring 2023
+# GPGN 268 – Geophysical Data Analysis – Spring 2025
 
 🌎 Welcome to **Geophysical Data Analysis**! 
 
