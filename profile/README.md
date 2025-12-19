@@ -3,9 +3,9 @@
 🌎 Welcome to **Geophysical Data Analysis**! 
 
 Instructor: Ryan Du   
-Email: ryan.du@mines.edu  
+Email: ryan.du@mines.edu
 Office Location: TBA   
-Office Hours: TBA
+Office Hours: TBA or [schedule an appointment with me](https://outlook.office.com/bookwithme/user/c558f0da845c439bbc1988ae51d926f2@mines.edu/meetingtype/kHvCHSRWTE6jmeRXtRt7tw2?bookingcode=ee0c6735-8837-4daf-8115-2faac091698a&anonymous&ismsaljsauthenabled&ep=mlink)
 
 Teaching Assistant: Jack Logan   
 Email: jacklogan@mines.edu  
@@ -27,14 +27,14 @@ You will find below a tentative schedule, which will be updated as we move throu
 | Week 1   | Introduction | Class intro  | [Intro to command line – Part 1]()  | [Onboarding checklist]() |
 | Week 2   | Tools for reproducible workflows | Martin Luther King Jr. Day (No class) | [Text editors]() | [File system]() |
 | Week 3   | Tools for reproducible workflows |  |  |  |
-| Week 4   |  |  |  | Career Day (No class) |
+| Week 4   |  |  | Career Day (No class) |  |
 | Week 5   |  |  |  |  |
 | Week 6   |  | Presidents' Day (No class) |  |  |
 | Week 7   |  |  |  |  |
 | Week 8   |  |  |  |  |
 | Week 9   |  |  |  |  |
 | Week 10   |  |  |  |  |
-| Week 11   | Spring Break | Spring Break | Spring Break |  |
+| Week 11   | Spring Break | Spring Break (No class) | Spring Break (No class) |  |
 | Week 12   |  |  |  |  |
 | Week 13   |  |  |  |  |
 | Week 14   |  |  |  |  |
