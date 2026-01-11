@@ -24,7 +24,7 @@ You will find below a tentative schedule, which will be updated as we move throu
 
 | **WEEK** | **TOPIC**                        | **TUESDAY**                                                                                                                                                                                                                         | **THURSDAY**                                                                                                                                                                                                                | **ASSESSMENT**                                                                                                                                                                                                                 |
 | -------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Week 1   | Introduction | Class intro  | [Intro to command line – Part 1]()  | [Onboarding checklist]() |
+| Week 1   | Introduction | Class intro  | [Intro to command line – Part 1]()  | [Onboarding checklist](https://github.com/GPGN268/GPGN268-CORE/blob/main/docs/assignments/onboarding.md) |
 | Week 2   | Tools for reproducible workflows | Martin Luther King Jr. Day (No class) | [Text editors]() | [File system]() |
 | Week 3   | Tools for reproducible workflows |  |  |  |
 | Week 4   |  |  | Career Day (No class) |  |
@@ -40,4 +40,5 @@ You will find below a tentative schedule, which will be updated as we move throu
 | Week 14   |  |  |  |  |
 | Week 15   |  |  |  |  |
 | Week 16   |  |  |  |  |
+
 | Week 17   |  |  |  |  |
