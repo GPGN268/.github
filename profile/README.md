@@ -13,7 +13,7 @@ Office Hours: TBA
 Office Hours Location: TBA
 
 ⚠️ You're expected to read the [course syllabus](https://github.com/GPGN268/GPGN268-CORE/blob/main/docs/syllabus-SP2026.md) thoroughly.  
-📚 All course material will be pushed to [GPGN268-CORE](https://github.com/GPGN268/GPGN268-CORE).  
+📚 Lecture material will be on [GPGN268-BOOK](https://gpgn268.github.io/GPGN268-BOOK/). The link point you to a website which will evolve as we go along the semester.   
 ✏️ We will use [HackMD](https://hackmd.io/@ryansjdu/GPGN268/edit) for collaborative note-taking during class.   
 💬 Our main communication channel will be [GitHub Discussions](https://github.com/orgs/GPGN268/discussions). There, you will find a private forum that is only available for your, your instructors, and classmates. That is *your* space for asking questions, discussing with your peers, exchanging resources and keeping up to date on course announcements.  
 
@@ -23,9 +23,9 @@ You will find below a tentative schedule, which will be updated as we move throu
 
 
 | **WEEK** | **TOPIC**                        | **TUESDAY**                                                                                                                                                                                                                         | **THURSDAY**                                                                                                                                                                                                                | **ASSESSMENT**                                                                                                                                                                                                                 |
-| ------------ | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Week 1   | Introduction | Class intro  | [Intro to command line – Part 1]()  | [Onboarding checklist](https://github.com/GPGN268/GPGN268-CORE/blob/main/docs/assignments/onboarding.md) |
-| Week 2   | Tools for reproducible workflows | Martin Luther King Jr. Day (No class) | [Text editors]() | [File system]() |
+| -------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Week 1   | Introduction | Class intro  | [File system and the command line](https://gpgn268.github.io/GPGN268-BOOK/filesnnir-commandline/)  | [Onboarding checklist](https://github.com/GPGN268/GPGN268-CORE/blob/main/docs/assignments/onboarding.md) |
+| Week 2   | Tools for reproducible workflows | Martin Luther King Jr. Day (No class) | [File system and the command line](https://gpgn268.github.io/GPGN268-BOOK/filesnnir-commandline/) |  |
 | Week 3   | Tools for reproducible workflows |  |  |  |
 | Week 4   |  |  | Career Day (No class) |  |
 | Week 5   |  |  |  |  |
