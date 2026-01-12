@@ -2,9 +2,9 @@
 
 🌎 Welcome to **Geophysical Data Analysis**! 
 
-Instructor: Ryan Du   
-Email: ryan.du@mines.edu
-Office Location: TBA   
+Instructor: Ryan Du (he/him)  
+Email: ryan.du@mines.edu   
+Office Location: 424 East Classroom Building   
 Office Hours: TBA or [schedule an appointment with me](https://outlook.office.com/bookwithme/user/c558f0da845c439bbc1988ae51d926f2@mines.edu/meetingtype/kHvCHSRWTE6jmeRXtRt7tw2?bookingcode=ee0c6735-8837-4daf-8115-2faac091698a&anonymous&ismsaljsauthenabled&ep=mlink)
 
 Teaching Assistant: Jack Logan   
@@ -42,3 +42,4 @@ You will find below a tentative schedule, which will be updated as we move throu
 | Week 16   |  |  |  |  |
 
 | Week 17   |  |  |  |  |
+
