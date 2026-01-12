@@ -5,7 +5,7 @@
 Instructor: Ryan Du (he/him)  
 Email: ryan.du@mines.edu   
 Office Location: 424 East Classroom Building   
-Office Hours: TBA or [schedule an appointment with me](https://outlook.office.com/bookwithme/user/c558f0da845c439bbc1988ae51d926f2@mines.edu/meetingtype/kHvCHSRWTE6jmeRXtRt7tw2?bookingcode=ee0c6735-8837-4daf-8115-2faac091698a&anonymous&ismsaljsauthenabled&ep=mlink)
+Office Hours: Mondays 4-5 pm or [schedule an appointment with me](https://outlook.office.com/bookwithme/user/c558f0da845c439bbc1988ae51d926f2@mines.edu/meetingtype/kHvCHSRWTE6jmeRXtRt7tw2?bookingcode=ee0c6735-8837-4daf-8115-2faac091698a&anonymous&ismsaljsauthenabled&ep=mlink)
 
 Teaching Assistant: Jack Logan   
 Email: jacklogan@mines.edu  
@@ -41,5 +41,6 @@ You will find below a tentative schedule, which will be updated as we move throu
 | Week 15   | Data Story - Seismology | Seismology – Dr. Eric Thompson | Seismology practicum – Dr. Eric Thompson | Seismology activity |
 | Week 16   | Final Project lab | Final Project Sprint | Final Project Sprint |  |
 | Week 17   | Presentations | Final project presentations | Final project presentations |  |
+
 
 
