@@ -9,7 +9,7 @@ Office Hours: Mondays 4-5 pm or [schedule an appointment with me](https://outloo
 
 Teaching Assistant: Jack Logan   
 Email: jacklogan@mines.edu  
-Office Hours: TBA
+Office Hours: TBA     
 Office Hours Location: TBA
 
 ⚠️ You're expected to read the [course syllabus](https://github.com/GPGN268/GPGN268-CORE/blob/main/docs/syllabus-SP2026.md) thoroughly.  
@@ -25,8 +25,8 @@ You will find below a tentative schedule, which will be updated as we move throu
 | **WEEK** | **TOPIC**                        | **TUESDAY**                                                                                                                                                                                                                         | **THURSDAY**                                                                                                                                                                                                                | **ASSESSMENT**                                                                                                                                                                                                                 |
 | -------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Week 1   | Introduction | Class intro  | [File system and the command line](https://gpgn268.github.io/GPGN268-BOOK/filesnnir-commandline/)  | [Onboarding checklist](https://github.com/GPGN268/GPGN268-CORE/blob/main/docs/assignments/onboarding.md) |
-| Week 2   | Tools for reproducible workflows | Martin Luther King Jr. Day (No class) | [File system and the command line](https://gpgn268.github.io/GPGN268-BOOK/filesnnir-commandline/) |  |
-| Week 3   | Tools for reproducible workflows |  |  |  |
+| Week 2   | Tools for reproducible workflows | Martin Luther King Jr. Day (No class) | [File system and the command line](https://gpgn268.github.io/GPGN268-BOOK/filesnnir-commandline/) | [File system](https://github.com/GPGN268/GPGN268-CORE/blob/main/docs/assignments/filesystem-activity.md) |
+| Week 3   | Tools for reproducible workflows | [Editing and viewing text files](https://gpgn268.github.io/GPGN268-BOOK/view-edit-textfile/) | [Version Control with Git](https://gpgn268.github.io/GPGN268-BOOK/version-control/) |  |
 | Week 4   |  |  | Career Day (No class) |  |
 | Week 5   |  |  |  |  |
 | Week 6   |  | Presidents' Day (No class) |  |  |
@@ -41,6 +41,7 @@ You will find below a tentative schedule, which will be updated as we move throu
 | Week 15   | Data Story - Seismology | Seismology – Dr. Eric Thompson | Seismology practicum – Dr. Eric Thompson | Seismology activity |
 | Week 16   | Final Project lab | Final Project Sprint | Final Project Sprint |  |
 | Week 17   | Presentations | Final project presentations | Final project presentations |  |
+
 
 
 
