@@ -22,7 +22,7 @@ You will find below a tentative schedule, which will be updated as we move throu
 
 
 
-| **WEEK** | **TOPIC**                        | **TUESDAY**                                                                                                                                                                                                                         | **THURSDAY**                                                                                                                                                                                                                | **ASSESSMENT**                                                                                                                                                                                                                 |
+| **WEEK** | **TOPIC**                        | **MONDAY**                                                                                                                                                                                                                         | **WEDNESDAY**                                                                                                                                                                                                                | **ASSESSMENT**                                                                                                                                                                                                                 |
 | -------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Week 1   | Introduction | Class intro  | [File system and the command line](https://gpgn268.github.io/GPGN268-BOOK/filesnnir-commandline/)  | [Onboarding checklist](https://github.com/GPGN268/GPGN268-CORE/blob/main/docs/assignments/onboarding.md) |
 | Week 2   | Tools for reproducible workflows | Martin Luther King Jr. Day (No class) | [File system and the command line](https://gpgn268.github.io/GPGN268-BOOK/filesnnir-commandline/) | [File system](https://github.com/GPGN268/GPGN268-CORE/blob/main/docs/assignments/filesystem-activity.md) |
@@ -41,6 +41,7 @@ You will find below a tentative schedule, which will be updated as we move throu
 | Week 15   | Data Story - Seismology | Seismology – Dr. Eric Thompson | Seismology practicum – Dr. Eric Thompson | Seismology activity |
 | Week 16   | Final Project lab | Final Project Sprint | Final Project Sprint |  |
 | Week 17   | Presentations | Final project presentations | Final project presentations |  |
+
 
 
 
