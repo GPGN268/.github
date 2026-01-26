@@ -5,11 +5,11 @@
 Instructor: Ryan Du (he/him)  
 Email: ryan.du@mines.edu   
 Office Location: 424 East Classroom Building   
-Office Hours: Mondays 4-5 pm or [schedule an appointment with me](https://outlook.office.com/bookwithme/user/c558f0da845c439bbc1988ae51d926f2@mines.edu/meetingtype/kHvCHSRWTE6jmeRXtRt7tw2?bookingcode=ee0c6735-8837-4daf-8115-2faac091698a&anonymous&ismsaljsauthenabled&ep=mlink)
+Office Hours: Mondays 4:00-5:00 pm or [schedule an appointment with me](https://outlook.office.com/bookwithme/user/c558f0da845c439bbc1988ae51d926f2@mines.edu/meetingtype/kHvCHSRWTE6jmeRXtRt7tw2?bookingcode=ee0c6735-8837-4daf-8115-2faac091698a&anonymous&ismsaljsauthenabled&ep=mlink)
 
 Teaching Assistant: Jack Logan   
 Email: jacklogan@mines.edu   
-Office Hours: Wednesday 4:00 - 5:00 pm or appointment by email   
+Office Hours: Wednesdays 4:00 - 5:00 pm or appointment by email   
 Office Hours Location: ECB 4th floor   
 
 ⚠️ You're expected to read the [course syllabus](https://github.com/GPGN268/GPGN268-CORE/blob/main/docs/syllabus-SP2026.md) thoroughly.  
@@ -24,10 +24,10 @@ You will find below a tentative schedule, which will be updated as we move throu
 
 | **WEEK** | **TOPIC**                        | **TUESDAY**                                                                                                                                                                                                                         | **THURSDAY**                                                                                                                                                                                                                | **ASSESSMENT**                                                                                                                                                                                                                 |
 | -------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Week 1   | Introduction | Class intro  | [File system and the command line](https://gpgn268.github.io/GPGN268-BOOK/filesnnir-commandline/)  | [Onboarding checklist](https://github.com/GPGN268/GPGN268-CORE/blob/main/docs/assignments/onboarding.md) |
-| Week 2   | Tools for reproducible workflows | Martin Luther King Jr. Day (No class) | [File system and the command line](https://gpgn268.github.io/GPGN268-BOOK/filesnnir-commandline/) | [File system](https://github.com/GPGN268/GPGN268-CORE/blob/main/docs/assignments/filesystem-activity.md) |
-| Week 3   | Tools for reproducible workflows | [Editing and viewing text files](https://gpgn268.github.io/GPGN268-BOOK/view-edit-textfile/) | [Version Control with Git](https://gpgn268.github.io/GPGN268-BOOK/version-control/) |  |
-| Week 4   |  |  | Career Day (No class) |  |
+| Week 1   | Introduction | Class intro  | [File system and the command line](https://gpgn268.github.io/GPGN268-BOOK/filesnnir-commandline/)  | [Onboarding checklist](https://github.com/GPGN268/GPGN268-CORE/blob/main/docs/assignments/SA00-onboarding.md) |
+| Week 2   | Tools for reproducible workflows | Martin Luther King Jr. Day (No class) | [File system and the command line](https://gpgn268.github.io/GPGN268-BOOK/filesnnir-commandline/) | [SA01-File system](https://github.com/GPGN268/GPGN268-CORE/blob/main/docs/assignments/SA01-filesystem-activity.md) |
+| Week 3   | Tools for reproducible workflows | [Editing and viewing text files](https://gpgn268.github.io/GPGN268-BOOK/view-edit-textfile/) | [Version Control with Git](https://gpgn268.github.io/GPGN268-BOOK/version-control/) | [SA02-VIM](https://github.com/GPGN268/GPGN268-CORE/blob/main/docs/assignments/SA02-shell-vim.md) |
+| Week 4   | Tools for reproducible workflows |  | Career Day (No class) |  |
 | Week 5   |  |  |  |  |
 | Week 6   |  | Presidents' Day (No class) |  |  |
 | Week 7   |  |  |  |  |
