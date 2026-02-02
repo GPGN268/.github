@@ -27,7 +27,7 @@ You will find below a tentative schedule, which will be updated as we move throu
 | Week 1   | Introduction | Class intro  | [File system and the command line](https://gpgn268.github.io/GPGN268-BOOK/filesnnir-commandline/)  | [Onboarding checklist](https://github.com/GPGN268/GPGN268-CORE/blob/main/docs/assignments/SA00-onboarding.md) |
 | Week 2   | Tools for reproducible workflows | Martin Luther King Jr. Day (No class) | [File system and the command line](https://gpgn268.github.io/GPGN268-BOOK/filesnnir-commandline/) | [SA01-File system](https://github.com/GPGN268/GPGN268-CORE/blob/main/docs/assignments/SA01-filesystem-activity.md) |
 | Week 3   | Tools for reproducible workflows | [Editing and viewing text files](https://gpgn268.github.io/GPGN268-BOOK/view-edit-textfile/) | [Version Control with Git](https://gpgn268.github.io/GPGN268-BOOK/version-control/) | [SA02-Shell](https://github.com/GPGN268/GPGN268-CORE/blob/main/docs/assignments/SA02-shell-vim.md) |
-| Week 4   | Tools for reproducible workflows |  | Career Day (No class) |  |
+| Week 4   | Tools for reproducible workflows | [Python Fundamentals](https://gpgn268.github.io/GPGN268-BOOK/intro-python/) | Career Day (No class) | [SA03-Github](https://github.com/GPGN268/GPGN268-CORE/blob/main/docs/assignments/SA03-github.md) |
 | Week 5   |  |  |  |  |
 | Week 6   |  | Presidents' Day (No class) |  |  |
 | Week 7   |  |  |  |  |
