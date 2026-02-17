@@ -28,10 +28,10 @@ You will find below a tentative schedule, which will be updated as we move throu
 | Week 2   | Tools for reproducible workflows | Martin Luther King Jr. Day (No class) | [File system and the command line](https://gpgn268.github.io/GPGN268-BOOK/filesnnir-commandline/) | [SA01-File system](https://github.com/GPGN268/GPGN268-CORE/blob/main/assignments/SA01-filesystem-activity.md) |
 | Week 3   | Tools for reproducible workflows | [Editing and viewing text files](https://gpgn268.github.io/GPGN268-BOOK/view-edit-textfile/) | [Version Control with Git](https://gpgn268.github.io/GPGN268-BOOK/version-control/) | [SA02-Shell](https://github.com/GPGN268/GPGN268-CORE/blob/main/assignments/SA02-shell-vim.md) |
 | Week 4   | Programming in Python | [Python Fundamentals](https://gpgn268.github.io/GPGN268-BOOK/intro-python/) | Career Day (No class) | [SA03-Github](https://github.com/GPGN268/GPGN268-CORE/blob/main/assignments/SA03-github.md) |
-| Week 5   | Programming in Python | [Conda and Jupyter Notebooks](https://gpgn268.github.io/GPGN268-BOOK/conda-vscode/) | [Numpy and plotting basics](https://gpgn268.github.io/GPGN268-BOOK/numpy-plot/) | [Final Project Discussion](https://github.com/orgs/GPGN268/discussions/2) |
-| Week 6   | Probability and Statistics | Presidents' Day (No class) |  |  |
-| Week 7   |  	Special topics | Well logging – Dr. Brandon Dugan | USGS resources – Dr. David Wald |  |
-| Week 8   |  |  |  |  |
+| Week 5   | Programming in Python | [Conda and Jupyter Notebooks](https://gpgn268.github.io/GPGN268-BOOK/conda-vscode/) | [Numpy](https://gpgn268.github.io/GPGN268-BOOK/numpy/) | [Final Project Discussion](https://github.com/orgs/GPGN268/discussions/2) |
+| Week 6   | Programming in Python | Presidents' Day (No class) | [Plotting](https://gpgn268.github.io/GPGN268-BOOK/matplotlib/) | [Final project milestone I](https://github.com/GPGN268/GPGN268-CORE/blob/main/assignments/FP01-pitch.md) |
+| Week 7   |  	Special topics | Well logging – Dr. Brandon Dugan | USGS resources – Dr. David Wald | [Start Data story 01](https://github.com/GPGN268/GPGN268-CORE/blob/main/assignments/DS01-well-logging.md) |
+| Week 8   |  | [Project pitches](https://github.com/GPGN268/GPGN268-CORE/blob/main/assignments/FP01-pitch.md) &  |  |  |
 | Week 9   |  |  |  |  |
 | Week 10   |  |  |  |  |
 | Week 11   | Spring Break | Spring Break (No class) | Spring Break (No class) |  |
