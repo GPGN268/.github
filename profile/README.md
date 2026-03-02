@@ -31,7 +31,7 @@ You will find below a tentative schedule, which will be updated as we move throu
 | Week 5   | Programming in Python | [Conda and Jupyter Notebooks](https://gpgn268.github.io/GPGN268-BOOK/conda-vscode/) | [Numpy](https://gpgn268.github.io/GPGN268-BOOK/numpy/) | [Final Project Discussion](https://github.com/orgs/GPGN268/discussions/2) |
 | Week 6   | Programming in Python | Presidents' Day (No class) | [Plotting](https://gpgn268.github.io/GPGN268-BOOK/matplotlib/) | [Final project milestone I](https://github.com/GPGN268/GPGN268-CORE/blob/main/assignments/FP01-pitch.md) |
 | Week 7   |  	Special topics | Well logging – Dr. Brandon Dugan | USGS resources – Dr. David Wald | [Start Data story 01](https://github.com/GPGN268/GPGN268-CORE/blob/main/assignments/DS01-well-logging.md) |
-| Week 8   | Probability and Statistics | [Project pitches](https://github.com/GPGN268/GPGN268-CORE/blob/main/assignments/FP01-pitch.md) & [Probability](https://gpgn268.github.io/GPGN268-BOOK/probability-ranvar/) | [Probability](https://gpgn268.github.io/GPGN268-BOOK/probability-ranvar/) |  |
+| Week 8   | Probability and Statistics | [Project pitches](https://github.com/GPGN268/GPGN268-CORE/blob/main/assignments/FP01-pitch.md) & [Probability](https://gpgn268.github.io/GPGN268-BOOK/probability-ranvar/) | [Probability](https://gpgn268.github.io/GPGN268-BOOK/probability-ranvar/) | [Start SA04](https://github.com/GPGN268/GPGN268-CORE/blob/main/assignments/SA04-probability.md) |
 | Week 9   |  |  |  |  |
 | Week 10   |  |  |  |  |
 | Week 11   | Spring Break | Spring Break (No class) | Spring Break (No class) |  |
@@ -41,6 +41,7 @@ You will find below a tentative schedule, which will be updated as we move throu
 | Week 15   | Data Story - Seismology | Seismology – Dr. Eric Thompson | Seismology practicum – Dr. Eric Thompson | Seismology activity |
 | Week 16   | Final Project lab | Final Project Sprint | Final Project Sprint |  |
 | Week 17   | Presentations | Final project presentations | Final project presentations |  |
+
 
 
 
