@@ -32,8 +32,8 @@ You will find below a tentative schedule, which will be updated as we move throu
 | Week 6   | Programming in Python | Presidents' Day (No class) | [Plotting](https://gpgn268.github.io/GPGN268-BOOK/matplotlib/) | [Final project milestone I](https://github.com/GPGN268/GPGN268-CORE/blob/main/assignments/FP01-pitch.md) |
 | Week 7   |  	Special topics | Well logging – Dr. Brandon Dugan | USGS resources – Dr. David Wald | [Start Data story 01](https://github.com/GPGN268/GPGN268-CORE/blob/main/assignments/DS01-well-logging.md) |
 | Week 8   | Probability and Statistics | [Project pitches](https://github.com/GPGN268/GPGN268-CORE/blob/main/assignments/FP01-pitch.md) & [Probability](https://gpgn268.github.io/GPGN268-BOOK/probability-ranvar/) | [Probability](https://gpgn268.github.io/GPGN268-BOOK/probability-ranvar/) | [Start SA04](https://github.com/GPGN268/GPGN268-CORE/blob/main/assignments/SA04-probability.md) |
-| Week 9   |  |  |  |  |
-| Week 10   |  |  |  |  |
+| Week 9   | Probability and Statistics | [Probability](https://gpgn268.github.io/GPGN268-BOOK/probability-ranvar/) & [Common Random Variables](https://gpgn268.github.io/GPGN268-BOOK/common-rvs/) | [Common Random Variables](https://gpgn268.github.io/GPGN268-BOOK/common-rvs/) & [Statistical inference](https://gpgn268.github.io/GPGN268-BOOK/statistical-inference/) | [SA05-Pair programming](https://github.com/GPGN268/GPGN268-CORE/blob/main/assignments/SA05-pair-programming.md) |
+| Week 10   |  |  |  | [SA04 Due](https://github.com/GPGN268/GPGN268-CORE/blob/main/assignments/SA04-probability.md) |
 | Week 11   | Spring Break | Spring Break (No class) | Spring Break (No class) |  |
 | Week 12   |  |  |  |  |
 | Week 13   |  |  |  |  |
