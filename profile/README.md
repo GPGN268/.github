@@ -35,10 +35,10 @@ You will find below a tentative schedule, which will be updated as we move throu
 | Week 9   | Probability and Statistics | [Probability](https://gpgn268.github.io/GPGN268-BOOK/probability-ranvar/) & [Common Random Variables](https://gpgn268.github.io/GPGN268-BOOK/common-rvs/) | [Common Random Variables](https://gpgn268.github.io/GPGN268-BOOK/common-rvs/) & [Statistical inference](https://gpgn268.github.io/GPGN268-BOOK/statistical-inference/) | [SA05-Pair programming](https://github.com/GPGN268/GPGN268-CORE/blob/main/assignments/SA05-pair-programming.md) |
 | Week 10   | pandas | [pandas](https://gpgn268.github.io/GPGN268-BOOK/pandas/) | DS01 Lab | [Final project milestone II](https://github.com/GPGN268/GPGN268-CORE/blob/main/assignments/FP02-project-repo.md) | [SA04](https://github.com/GPGN268/GPGN268-CORE/blob/main/assignments/SA04-probability.md)|
 | Week 11   | Spring Break | Spring Break (No class) | Spring Break (No class) |  |
-| Week 12   | GeoData in python | data formats | xarray |  DS02-Global Warming | [SA05](https://github.com/GPGN268/GPGN268-CORE/blob/main/assignments/SA05-pair-programming.md) & [FP02](https://github.com/GPGN268/GPGN268-CORE/blob/main/assignments/FP02-project-repo.md)
-| Week 13   | Maps | Cartopy | DS02 Lab | Final project milestone III | DS01|
+| Week 12   | GeoData in python | [xarray](https://gpgn268.github.io/GPGN268-BOOK/xarray/) | [xarray](https://gpgn268.github.io/GPGN268-BOOK/xarray/) |  [DS02-Global Warming](https://github.com/GPGN268/GPGN268-CORE/blob/main/assignments/DS02-global-warming.ipynb) | [SA05](https://github.com/GPGN268/GPGN268-CORE/blob/main/assignments/SA05-pair-programming.md) & [FP02](https://github.com/GPGN268/GPGN268-CORE/blob/main/assignments/FP02-project-repo.md)
+| Week 13   | Maps | Cartopy | DS02 Lab | Final project milestone III | [DS01](https://github.com/GPGN268/GPGN268-CORE/blob/main/assignments/DS01-well-logging.md)|
 | Week 14   |  | Buffer | Final Project Sprint |  |  |
-| Week 15   | Data Story - Seismology | Seismology – Dr. Eric Thompson | Seismology practicum – Dr. Eric Thompson |  | DS02 & FP03|
+| Week 15   | Data Story - Seismology | Seismology – Dr. Eric Thompson | Seismology practicum – Dr. Eric Thompson |  | [DS02](https://github.com/GPGN268/GPGN268-CORE/blob/main/assignments/DS02-global-warming.ipynb) & FP03|
 | Week 16   | Final Project lab | Final Project Sprint | Final Project Sprint | Work on your final project! |
 | Week 17   | Presentations | Final project presentations |  	Project feedback and course wrap-up |  |
 
