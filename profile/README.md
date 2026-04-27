@@ -39,8 +39,8 @@ You will find below a tentative schedule, which will be updated as we move throu
 | Week 13   | Maps | [cartopy](https://gpgn268.github.io/GPGN268-BOOK/cartopy/) | DS01/DS02 Lab | [Final project milestone III](https://github.com/GPGN268/GPGN268-CORE/blob/main/assignments/FP03-project-board.md) | [DS01](https://github.com/GPGN268/GPGN268-CORE/blob/main/assignments/DS01-well-logging.md)|
 | Week 14   |  | Buffer | Final Project Sprint |  | FP03 |
 | Week 15   | Data Story - Seismology | Seismology – Dr. Eric Thompson | Seismology practicum – Dr. Eric Thompson |  | [DS02](https://github.com/GPGN268/GPGN268-CORE/blob/main/assignments/DS02-global-warming.ipynb)|
-| Week 16   | Final Project lab | Final Project Sprint | Final Project Sprint | Work on your final project! |
-| Week 17   | Presentations | Final project presentations |  	Project feedback and course wrap-up |  |
+| Week 16   | Final Project lab | Final Project Sprint | Final Project Sprint | [Work on your final project!](https://github.com/GPGN268/GPGN268-CORE/blob/main/assignments/FP00-guideliness.md) |
+| Week 17   | Presentations | Final project presentations |  	Project feedback and course wrap-up | [Final project guideline](https://github.com/GPGN268/GPGN268-CORE/blob/main/assignments/FP00-guideliness.md) |
 
 
 
